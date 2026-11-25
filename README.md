@@ -1,0 +1,2 @@
+# ded-moroz-game
+Пиздатый
